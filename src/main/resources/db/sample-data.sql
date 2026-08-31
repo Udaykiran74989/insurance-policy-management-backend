@@ -1,0 +1,8 @@
+-- Optional reference data. The application seed runner is recommended because it
+-- hashes the demo passwords with BCrypt before inserting them.
+-- Enable with: SEED_DATA=true
+--
+-- Demo users:
+-- admin@insurance.com / admin@123
+-- udaynew@gmail.com / uday@123
+-- rutwik@gmail.com / Rutwik@123
